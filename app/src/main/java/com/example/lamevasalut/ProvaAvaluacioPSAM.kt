@@ -23,6 +23,8 @@ Necessito definir les següents categories d'informació mèdica:
 - Altres dades
 Com ho faries?
 
+--1 classe per categoria--
+
 PREGUNTA 04
 A partir d'un array de parells, genera la pantalla inicial de la meva salut
 
